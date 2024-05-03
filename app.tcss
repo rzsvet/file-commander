@@ -1,0 +1,11 @@
+Screen {
+    layout: horizontal;
+}
+
+.box {
+    background: $boost;
+    border: solid white;
+    color: white;
+    padding: 1;
+    height: 1fr;
+}
